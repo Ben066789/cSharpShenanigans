@@ -1,0 +1,15 @@
+C:\Users\COMLAB-PC\AppData\Local\ChromeTemp\LauncherApp\bin\Release\net6.0\LauncherApp.exe
+C:\Users\COMLAB-PC\AppData\Local\ChromeTemp\LauncherApp\bin\Release\net6.0\LauncherApp.deps.json
+C:\Users\COMLAB-PC\AppData\Local\ChromeTemp\LauncherApp\bin\Release\net6.0\LauncherApp.runtimeconfig.json
+C:\Users\COMLAB-PC\AppData\Local\ChromeTemp\LauncherApp\bin\Release\net6.0\LauncherApp.dll
+C:\Users\COMLAB-PC\AppData\Local\ChromeTemp\LauncherApp\bin\Release\net6.0\LauncherApp.pdb
+C:\Users\COMLAB-PC\AppData\Local\ChromeTemp\LauncherApp\obj\Release\net6.0\LauncherApp.csproj.AssemblyReference.cache
+C:\Users\COMLAB-PC\AppData\Local\ChromeTemp\LauncherApp\obj\Release\net6.0\LauncherApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\COMLAB-PC\AppData\Local\ChromeTemp\LauncherApp\obj\Release\net6.0\LauncherApp.AssemblyInfoInputs.cache
+C:\Users\COMLAB-PC\AppData\Local\ChromeTemp\LauncherApp\obj\Release\net6.0\LauncherApp.AssemblyInfo.cs
+C:\Users\COMLAB-PC\AppData\Local\ChromeTemp\LauncherApp\obj\Release\net6.0\LauncherApp.csproj.CoreCompileInputs.cache
+C:\Users\COMLAB-PC\AppData\Local\ChromeTemp\LauncherApp\obj\Release\net6.0\LauncherApp.dll
+C:\Users\COMLAB-PC\AppData\Local\ChromeTemp\LauncherApp\obj\Release\net6.0\refint\LauncherApp.dll
+C:\Users\COMLAB-PC\AppData\Local\ChromeTemp\LauncherApp\obj\Release\net6.0\LauncherApp.pdb
+C:\Users\COMLAB-PC\AppData\Local\ChromeTemp\LauncherApp\obj\Release\net6.0\LauncherApp.genruntimeconfig.cache
+C:\Users\COMLAB-PC\AppData\Local\ChromeTemp\LauncherApp\obj\Release\net6.0\ref\LauncherApp.dll
